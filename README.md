@@ -1,4 +1,4 @@
-![alhimkote](https://alhimkoteiii.github.io/alhimkote.png)
+![alhimkote](https://alhimkoteiii.github.io/logo.png)
 
 ## Различные приблуды для души и для дела
 
