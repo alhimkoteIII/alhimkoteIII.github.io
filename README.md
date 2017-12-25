@@ -14,22 +14,14 @@ __Лицензия:__ _MIT_
 Скачайте и установите Python `2.7` 32-бит;
 Скачайте и установите Git;
 
-#### 
-
-```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/doctormo/GimpPs/master/tools/install.sh)"
-```
-
 ### Windows установка дополнений для Python `2.7`:
 
-#### via powershell:
+#### через powershell:
 
-	cd $Env:UserProfile
-	mv .gimp-2.8 .gimp-2.8.backup
-	git clone --depth=1 https://github.com/doctormo/GimpPs.git .gimp-2.8
+	mv C:\Python27 C:\Python27.backup
+	git clone --depth=1 ***.git C:\Python27
 
-#### via cmd:
+#### через cmd:
 
-	cd %USERPROFILE%
-	ren .gimp-2.8 .gimp-2.8.backup
-	git clone --depth=1 https://github.com/doctormo/GimpPs.git .gimp-2.8
+	ren C:\Python27 C:\Python27.backup
+	git clone --depth=1 ***.git C:\Python27
